@@ -10,7 +10,7 @@ Here is the [Data Sources](https://ourworldindata.org/covid-cases)
 ## 2.Table Details
 |Table Name |Column Name|
 |-----------|-----------|
-|Daily Infection Analysis|Local, Population, Date, HighestInfectionCount, PercentPopulationInfected|
+|[Daily Infection Analysis](./daily infection analysis.xlsx) |Local, Population, Date, HighestInfectionCount, PercentPopulationInfected|
 |Global Epidemic Overview|Total_cases, Total_deaths, DeathPercentage|
 |Nation Infection Analysis|Location, Population, HigestInfectionCount, PercentPopulationInfected|
 |Regional Epidemic|Location, TotalDeathCount|
