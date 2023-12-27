@@ -1,12 +1,14 @@
 # COVID-19 data analysis
 
 ## Introduction
+
 Explore the global Covid-19 situation from the overall to the local level through SQL query and analysis.  
 
 Here is the [Data Sources](https://ourworldindata.org/covid-cases)
 
 
 ## Table Details
+
 The entire data set is divided into two parts.
 
 
