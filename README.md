@@ -21,7 +21,7 @@ Tableau is used. Here is the Tableau [Project](https://public.tableau.com/app/pr
 
 ## 4.Conclusion
 
-
+The number of COVID-19 infections and deaths is declining in all countries around the world, and some countries even have infection rates of 0.
 
 
 
