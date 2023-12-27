@@ -9,7 +9,8 @@ Here is the [Data Sources](https://ourworldindata.org/covid-cases)
 
 ## Table Details
 
-The entire data set is divided into two parts.
+｜hh|yy|
+|--|--|
 
 
 ## Data Visualization
