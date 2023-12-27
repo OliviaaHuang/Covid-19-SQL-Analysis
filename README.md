@@ -9,8 +9,8 @@ Here is the [Data Sources](https://ourworldindata.org/covid-cases)
 
 ## Table Details
 
-｜hh|yy|
-|--|--|
+|Table Name |Column Name|
+|-----------|-----------|
 
 
 ## Data Visualization
