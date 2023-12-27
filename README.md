@@ -8,7 +8,6 @@ Here is the [Data Sources](https://ourworldindata.org/covid-cases)
 
 
 ## Table Details
-
 |Table Name |Column Name|
 |-----------|-----------|
 
