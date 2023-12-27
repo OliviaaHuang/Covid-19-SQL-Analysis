@@ -1,10 +1,19 @@
-# COVID-19 data analysis
+# COVID-19 Data Analysis
 
 ## 1.Introduction
 
 Explore the global Covid-19 situation from the overall to the local level through SQL query and analysis.  
 
 Here is the [Data Sources](https://ourworldindata.org/covid-cases)
+
+
+## 2.Tools Used
+
+`Excel` to clean the data.  
+
+`Advanced SQL(Window Functions, subquery)` to analyse the data.  
+
+Used `Tableau` to build the dashboard for data visualization.
 
 
 ## 2.Table Details
