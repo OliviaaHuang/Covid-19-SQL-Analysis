@@ -18,6 +18,7 @@ Here is the [Data Sources](https://ourworldindata.org/covid-cases)
 ## 3.Data Visualization
 
 Tableau is used. Here is the Tableau [Project](https://public.tableau.com/app/profile/qijia.huang/viz/CovidDashboardTutorial_17018002830420/1_1)
+<img width="800" height="800" alt="截屏2023-12-27 15 50 32" src="https://github.com/OliviaaHuang/Protfolio-SQL/assets/152938995/c978878e-7ef4-46ec-99ae-9189b28ecd43">
 
 ## 4.Conclusion
 
