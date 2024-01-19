@@ -27,7 +27,8 @@ Used `Tableau` to build the dashboard for data visualization.
 ## 3.Data Visualization
 
 Tableau is used. Here is the Tableau [Project](https://public.tableau.com/app/profile/qijia.huang/viz/CovidDashboardTutorial_17018002830420/1_1)
-<img width="800" height="400" alt="截屏2023-12-27 15 50 32" src="https://github.com/OliviaaHuang/Protfolio-SQL/assets/152938995/c978878e-7ef4-46ec-99ae-9189b28ecd43">
+<img width="1132" alt="截屏2024-01-19 22 21 33" src="https://github.com/OliviaaHuang/Protfolio-SQL/assets/152938995/6efbd647-741e-4499-b574-69eb32fd8bf2">
+
 
 ## 4.Conclusion
 
