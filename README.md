@@ -19,10 +19,10 @@ Used `Tableau` to build the dashboard for data visualization.
 ## 2.Table Details
 |Table Name |Column Name|
 |-----------|-----------|
-|[Daily Infection Analysis](./daily_infection_analysis.xlsx) |Local, Population, Date, HighestInfectionCount, PercentPopulationInfected|
-|[Global Epidemic Overview](./global_epidemic_overview.xlsx)|Total_cases, Total_deaths, DeathPercentage|
-|[Nation Infection Analysis](./national_infection_analysis.xlsx)|Location, Population, HigestInfectionCount, PercentPopulationInfected|
-|[Regional Epidemic](./regional_epidemic.xlsx)|Location, TotalDeathCount|
+|[Daily Infection Analysis](./b1_daily_infection_analysis.xlsx) |Local, Population, Date, HighestInfectionCount, PercentPopulationInfected|
+|[Global Epidemic Overview](./b2_global_epidemic_overview.xlsx)|Total_cases, Total_deaths, DeathPercentage|
+|[Nation Infection Analysis](./b3_national_infection_analysis.xlsx)|Location, Population, HigestInfectionCount, PercentPopulationInfected|
+|[Regional Epidemic](./b4_regional_epidemic.xlsx)|Location, TotalDeathCount|
 
 ## 3.Data Visualization
 
